@@ -2,6 +2,7 @@
 Desafio de Alura Latam Challenge TelecomX
 # Análisis de Evasión de Clientes (Churn) - Telecom X
 
+## Archivo: Telecom.ipynb
 ## Descripción del Proyecto
 Este proyecto tiene como objetivo analizar la evasión de clientes (churn) en la empresa Telecom X. A partir de datos históricos de clientes, se busca identificar patrones y variables asociadas a la cancelación del servicio para diseñar estrategias de retención efectivas.
 
